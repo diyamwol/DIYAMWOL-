@@ -4,9 +4,9 @@
 <div align="center"
 
 
-[![COSMO](https://i.imgur.com/0hsklk8.jpeg)](https://github.com/khadher05)
+[![COSMO](https://i.imgur.com/0hsklk8.jpeg)](https://github.com/diyamwol05)
 
-## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅲🅾🆂🅼🅸🅲+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅺🅷🅰🅳🅷🅴🆁+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](wa.me/917025191792) )
+## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+DIYAMWOL +🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+ANOOPEFX😍+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](wa.me/917025191792) )
 
 
 </p>
@@ -66,8 +66,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/khadher05/COSMO
-$ cd COSMO
+$ git clone https://github.com/khadher05/diyamwol
+$ cd diya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -76,7 +76,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/khadher05/COSMO
+$ git clone https://github.com/dyamwol05/dyamwol
 $ cd COSMO
 $ chmod +x *
 $ npm i
